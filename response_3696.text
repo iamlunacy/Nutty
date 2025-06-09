@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />		<title>Dashboard | J Resort Player Portal</title>
+	<meta name="googlebot" content="NOODP" />
+		<meta charset="UTF-8" />
+	<!--Open Graph Meta for Social Media-->
+			<meta property="og:title" content="[J Resort Player Portal] Dashboard | " />
+				<meta property="og:type" content="website" />
+				<meta property="og:url" content="https://playerportal.jresortreno.com/dashboard/" />
+					<meta property="og:image" content="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/ogmeta_thumb.jpg" /> 					<meta property="og:description" content="" />
+		    <meta name="viewport" content="width=device-width; initial-scale=1"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="icon" href="https://playerportal.jresortreno.com/wp-content/uploads/2024/08/favicon.png" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="J Resort Player Portal" href="https://playerportal.jresortreno.com/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="J Resort Player Portal" href="https://playerportal.jresortreno.com/feed/atom/" />
+	<link href="https://fonts.googleapis.com/css?family=Anton|Montserrat:300,600|Open+Sans:300&display=swap" rel="stylesheet">
+	
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+						"sameAs": [
+							"https://www.facebook.com/jresortreno/",
+				
+										"https://www.instagram.com/jresortreno/",
+															            	"https://www.linkedin.com/company/jresortreno",
+													"https://www.tiktok.com/@jresortreno",
+				
+            		]
+	}
+	</script>
+	<script src="https://sitemanager.web.pegs.com/jresort/loader.js" async></script>
+	<meta name='robots' content='noindex, nofollow' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/playerportal.jresortreno.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://playerportal.jresortreno.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='activecampaign-form-block-css' href='https://playerportal.jresortreno.com/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1714526004' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://playerportal.jresortreno.com/wp-includes/css/dashicons.min.css?ver=6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/style.css?ver=250609' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+
+		:root{ 
+			--main-bg-color: ;
+			--main-text-color: ;
+			--main-text-color-dark: ;
+			--main-heading: ;
+			--main-heading-dark: ;
+			--sec-heading: 
+			--sec-heading-dark: ;
+			--main-link: ;
+			--main-link-hover: ;
+			--main-link-dark: ;
+			--main-link-dark-hover: ;
+			--main-bgbutton: ;
+			--main-button-font: ;
+			--main-button-hover: ;
+			--main-announcement-background: #00a99e; 
+			--main-announcement-text: #ffffff; 
+			--main-announcement-grad: #00a99e;
+			--main-header-background: #262e38;
+			--main-header-text: #ffffff;
+			--main-footer-social-background: ;
+			--main-footer-social-text: ;
+			--main-footer-social-link: ;
+			--main-footer-bottom-background: ;
+			--main-footer-bottom-text: ;
+			--main-footer-bottom-link: ;
+			--main-form-button: ;
+			--main-form-button-hover: ;
+			--main-form-text: ;
+			--main-nav-color: #f2f3f4;
+			--main-nav-color-hover: ;
+			--main-mobile-color: ;
+			--main-mobile-color-hover: 
+			
+		}
+</style>
+<link rel='stylesheet' id='player-portal-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/player-portal.css?ver=2506091002' type='text/css' media='all' />
+<link rel='stylesheet' id='player-portal-overrides-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/player-portal-overrides.css?ver=2506091002' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/reset.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='960-grid-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/960_custom_12_col.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='oocss-spacing-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/spacing.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='oocss-typography-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/typography.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='ddsmoothmenu-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/ddsmoothmenu.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='slickslider-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/slick.css?ver=250609' type='text/css' media='all' />
+<link rel='stylesheet' id='slickslider-theme-css' href='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/slick-theme.css?ver=250609' type='text/css' media='all' />
+		<!--[if lt IE 9]>
+		<script type='text/javascript' src='https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/html5shiv-printshiv.js?ver=20250609'></script>
+		<![endif]-->
+		<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/slick.slider.js?ver=250609" id="slickslider-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/slick.slider-init.js?ver=250609" id="slickslider-init-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/ddsmoothmenu-new.js?ver=250609" id="ddsmoothmenu-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/ddsmoothmenu-init.js?ver=250609" id="ddsmoothmenu-init-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/mobile-menu.js?ver=250609" id="mobile-menu-js"></script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/jquery.modal.min.js?ver=250609" id="jquery-modal-js"></script>
+<link rel="https://api.w.org/" href="https://playerportal.jresortreno.com/wp-json/" /><link rel="alternate" type="application/json" href="https://playerportal.jresortreno.com/wp-json/wp/v2/pages/196" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://playerportal.jresortreno.com/xmlrpc.php?rsd" />
+
+<link rel="canonical" href="https://playerportal.jresortreno.com/dashboard/" />
+<link rel='shortlink' href='https://playerportal.jresortreno.com/?p=196' />
+<link rel="alternate" type="application/json+oembed" href="https://playerportal.jresortreno.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fplayerportal.jresortreno.com%2Fdashboard%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://playerportal.jresortreno.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fplayerportal.jresortreno.com%2Fdashboard%2F&#038;format=xml" />
+    	<script>
+		var ADAPT_CONFIG = {
+			path: 'https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/css/',
+			dynamic: true,
+			range: [
+			'0px    to 1050px  = mobile.css',
+			
+			]
+		};
+	</script>
+	<script src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/adapt.min.js"></script>
+</head>
+<body class="page-template page-template-page-dashboard page-template-page-dashboard-php page page-id-196">
+		<div data-conversion-plus-placeholder="BookingWidget"></div>
+<div id="wrapper">
+	<div class="header-wrap">
+        <header>
+							
+				<div class="iheader">
+					<nav id="nav-primary" class="nav">
+											<a id="logo" class="nologo" href="https://www.jresortreno.com/" title="JResort">
+							<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/jresorts-logo.svg" alt="JResort"/>
+						</a>
+					
+					<a class="animateddrawer" id="ddsmoothmenu-mobiletoggle" href="#">
+						<span></span>
+					</a>
+					
+					
+						<div id="menu" class="ddsmoothmenu"><ul id="menu-main-menu" class="menu"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first menu-item-13"><a href="https://www.jresortreno.com/casino/">Casino</a>
+<ul class="sub-menu">
+	<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://www.jresortreno.com/casino/j-rewards/">J Rewards</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://www.jresortreno.com/casino/table-games/">Table Games</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://nccreports.com/application/?jresort">Casino Credit</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://www.jresortreno.com/win-loss-statements/">Win/Loss Statements</a></li>
+</ul>
+</li>
+<li id="menu-item-7186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7186"><a href="https://www.jresortreno.com/promotions/">Promotions</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="https://www.jresortreno.com/resort/">Resort</a>
+<ul class="sub-menu">
+	<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://www.jresortreno.com/rooms/">Accommodations</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://www.jresortreno.com/resort/groups-meetings/">Groups &#038; Meetings</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://www.jresortreno.com/original-art/">Original Art</a></li>
+	<li id="menu-item-7187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7187"><a href="https://www.jresortreno.com/partner-discounted-lift-tickets/">Partner Discounted Lift Tickets</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"><a href="https://www.jresortreno.com/restaurants/">Restaurants</a>
+<ul class="sub-menu">
+	<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://www.jresortreno.com/restaurants/j-pauls-italian-steakhouse/">J Paul’s Italian Steakhouse</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://www.jresortreno.com/restaurants/hannas-table/">Hanna’s Table</a></li>
+	<li id="menu-item-6060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6060"><a href="https://www.jresortreno.com/restaurants/the-buffet/">The Buffet</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://www.jresortreno.com/restaurants/hannas-express/">Hanna’s Express</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a href="https://www.jresortreno.com/entertainment-and-nightlife/">Entertainment &#038; Nightlife</a>
+<ul class="sub-menu">
+	<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="http://www.jresortent.com/">Concerts &#038; Festivals</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="https://www.jresortreno.com/entertainment-and-nightlife/afterglow/">Afterglow Lounge</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://www.jresortreno.com/entertainment-and-nightlife/renos-neon-line-district/">J Resort&#8217;s Reno Neon Line</a></li>
+</ul>
+</li>
+<li id="menu-item-7188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-last menu-item-7188"><a href="https://www.jresortreno.com/wolfpack/">Wolf Pack</a></li>
+</ul></div>																		
+					</nav>
+			<div class="second-nav">	
+												<div id="book-widget-btn" class="hidden desktop-only:inline-flex items-center" data-conversion-plus-placeholder="BookingWidgetButton"></div>
+			</div>
+				</div> 
+
+<div id="book-widget-btn-mobile" class="items-center" data-conversion-plus-placeholder="BookingWidgetButton"></div>
+			<div class="neondiv"></div>	
+	
+        </header>
+  </div>
+	
+	
+    
+    <article id="post-196" class="clearfix post-196 page type-page status-publish hentry">
+        <section class="section dashboard">
+            <div class="container-fluid container-spaced">
+                <div class="block-welcome">
+                    <div class="row">
+                        <div class="col-xxl-5">
+                            <div class="block-title"><h1 class="h5">Welcome,  JOSHUA MILLER</h1></div>
+                            <div class="block-text"><p>To earn benefits, simply insert your Gold Rewards Card into any slot machine card reader. The more you play, the more you’ll earn!</p>
+</div>                            <div class="block-welcome-benefit">
+                                <div class="d-flex">
+                                    <div class="block-welcome-benefit-image">
+                                        <img src="https://playerportal.jresortreno.com/wp-content/uploads/2024/07/JRESORT-092225-rewards-cards5-1.png" alt="JRESORT-092225-rewards-cards5-1" class="img-fluid" />                                    </div>
+                                    <div class="flex-grow-1 d-flex flex-wrap align-items-center">
+                                        <div class="col-12 col-sm-auto block-welcome-benefit-title">Gold Benefits</div>
+                                        <div class="col-12 col-sm-auto block-welcome-benefit-current">My Current Tier</div>
+                                        <div class="col-12 block-welcome-benefit-credits">
+                                                                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path id="Path_346" data-name="Path 346" d="M3,12A10,10,0,1,1,13,22,10,10,0,0,1,3,12ZM13,0A12,12,0,1,0,25,12,12,12,0,0,0,13,0ZM12,7a1,1,0,1,1,1,1A1,1,0,0,1,12,7Zm1,11a1,1,0,0,0,1-1V11a1,1,0,1,0-2,0v6A1,1,0,0,0,13,18Z" transform="translate(-1)" fill="#e89f1b" fill-rule="evenodd"/></svg> Earn 3,999 VIP Credits to reach White Gold by Jun 30th                                                                                    </div>
+                                    </div>
+                                </div>
+                                <div class="block-welcome-benefit-list">
+                                                                                                                                                                                                                                                                                                                            <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.346" height="32.872"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-579.899 -700.749)"><g data-name="Group 827" id="Group_827"><g data-name="Group 826" id="Group_826"><circle cx="14.47" cy="14.47" data-name="Ellipse 69" fill="#73a1aa" id="Ellipse_69" r="14.47" transform="translate(590.034 703.709)"></circle><g data-name="Group 825" id="Group_825"><line data-name="Line 131" fill="none" id="Line_131" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.44 713.116)" x2="10.14" y1="10.14"></line><circle cx="1.9" cy="1.9" data-name="Ellipse 70" fill="none" id="Ellipse_70" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(598.807 712.482)"></circle><circle cx="1.9" cy="1.9" data-name="Ellipse 71" fill="none" id="Ellipse_71" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(606.41 720.086)"></circle></g></g></g><g data-name="Group 828" id="Group_828"><path d="m624.5,720.54l4.75,0c0,-12.67 -2.22,-18.37 -4.4,-18.37l-0.35,0l0,30.45" data-name="Path 720" fill="none" id="Path_720" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m580.9,701.75l0,4.94a3.67,3.67 0 1 0 7.34,0l0,-4.94" data-name="Path 721" fill="none" id="Path_721" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 132" fill="none" id="Line_132" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(584.581 701.749)" y2="30.87"></line></g></g></g></svg>                                              The Buffet Discount***                                                                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="block-cta d-flex justify-content-between">
+								<a href="#" class="chaos-modal-link" data-chaos-modal-box-id="modal-content-benefits">View all benefits</a>
+									<div id="modal-content-benefits" style="display: none;" class="modalmain">
+            							
+    
+                <div class="modal-body">
+                    <div class="block-title">
+                        <h2 class="">Player’s Club Benefits</h2>
+                    </div>
+                                            <div class="block-benefits">
+                                                            <div class="block-benefits-item">
+                                    <div class="block-benefits-title d-flex flex-column flex-sm-row align-items-start align-items-sm-end gap-4">
+                                        <div><img src="https://playerportal.jresortreno.com/wp-content/uploads/2024/07/JRESORT-092225-rewards-cards5-1.png" alt="JRESORT-092225-rewards-cards5-1" class="img-fluid" /></div>                                        <div class="rankname">Gold</div>
+                                        <div class="ms-0 ms-sm-auto mb-1 block-benefits-current">My Current Tier</div>                                    </div>
+                                    <div class="block-benefits-list">
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.346" height="32.872"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-579.899 -700.749)"><g data-name="Group 827" id="Group_827"><g data-name="Group 826" id="Group_826"><circle cx="14.47" cy="14.47" data-name="Ellipse 69" fill="#73a1aa" id="Ellipse_69" r="14.47" transform="translate(590.034 703.709)"></circle><g data-name="Group 825" id="Group_825"><line data-name="Line 131" fill="none" id="Line_131" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.44 713.116)" x2="10.14" y1="10.14"></line><circle cx="1.9" cy="1.9" data-name="Ellipse 70" fill="none" id="Ellipse_70" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(598.807 712.482)"></circle><circle cx="1.9" cy="1.9" data-name="Ellipse 71" fill="none" id="Ellipse_71" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(606.41 720.086)"></circle></g></g></g><g data-name="Group 828" id="Group_828"><path d="m624.5,720.54l4.75,0c0,-12.67 -2.22,-18.37 -4.4,-18.37l-0.35,0l0,30.45" data-name="Path 720" fill="none" id="Path_720" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m580.9,701.75l0,4.94a3.67,3.67 0 1 0 7.34,0l0,-4.94" data-name="Path 721" fill="none" id="Path_721" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 132" fill="none" id="Line_132" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(584.581 701.749)" y2="30.87"></line></g></g></g></svg>                                              The Buffet Discount***                                                                                    </div>
+                                                                            </div>
+                                    <div class="block-benefits-cta"><a href="https://www.jresortreno.com/casino/j-rewards/" class="text-decoration-none" target="_blank">View all Gold benefits</a></div>
+                                </div>
+                                                            <div class="block-benefits-item">
+                                    <div class="block-benefits-title d-flex flex-column flex-sm-row align-items-start align-items-sm-end gap-4">
+                                        <div><img src="https://playerportal.jresortreno.com/wp-content/uploads/2024/07/JRESORT-092225-rewards-cards5-2.png" alt="JRESORT-092225-rewards-cards5-2" class="img-fluid" /></div>                                        <div class="rankname">White Gold</div>
+                                                                            </div>
+                                    <div class="block-benefits-list">
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="42.083" height="47.083"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-159.064 -693.281)"><rect data-name="Rectangle 236" fill="none" height="6.66" id="Rectangle_236" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(161.894 732.704)" width="5.49"></rect><rect data-name="Rectangle 237" fill="none" height="6.66" id="Rectangle_237" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(185.51 732.704)" width="5.49"></rect><path d="m192.83,732.7l0,-7.32l-3.66,-3.66l-25.45,0l-3.66,3.66l0,7.32l32.77,0z" data-name="Path 698" fill="none" id="Path_698" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m173.53,712.58l-6.15,0l-3.66,9.15l25.45,0" data-name="Path 699" fill="none" id="Path_699" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 112" fill="none" id="Line_112" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(160.064 727.045)" x2="8.23"></line><line data-name="Line 113" fill="none" id="Line_113" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(184.595 727.045)" x2="8.23"></line><circle cx="11.89" cy="11.89" data-name="Ellipse 61" fill="#73a1aa" id="Ellipse_61" r="11.89" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.361 694.281)"></circle><path d="m185.51,712.58l0,-12.81l3.66,0a3.66,3.66 0 1 1 0,7.32l-3.66,0" data-name="Path 700" fill="none" id="Path_700" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              VIP Parking                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="43.992" height="43.982"><g class="layer"><title>Layer 1</title><g id="icon"><g data-name="Group 808" id="Group_808"><circle cx="-569.04" cy="-225.34" data-name="Ellipse 63" fill="#73a1aa" id="Ellipse_63" r="14.48" transform="translate(591.034 247.327)"></circle><g data-name="Group 807" id="Group_807"><line data-name="Line 116" fill="none" id="Line_116" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(600.44 256.734)" x1="-583.51" x2="-573.38" y1="-229.67" y2="-239.81"></line><circle cx="-581.61" cy="-237.91" data-name="Ellipse 64" fill="none" id="Ellipse_64" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.807 256.1)"></circle><circle cx="-581.61" cy="-237.91" data-name="Ellipse 65" fill="none" id="Ellipse_65" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(607.41 263.704)"></circle></g></g><path d="m42.89,21.99c0,1.81 -1.82,3.35 -2.27,5.02c-0.46,1.72 0.34,3.97 -0.54,5.48c-0.88,1.53 -3.24,1.96 -4.48,3.2s-1.67,3.6 -3.21,4.48c-1.5,0.87 -3.75,0.08 -5.48,0.54c-1.66,0.44 -3.21,2.27 -5.01,2.27s-3.35,-1.83 -5.02,-2.27c-1.73,-0.46 -3.97,0.33 -5.48,-0.54c-1.53,-0.89 -1.96,-3.24 -3.2,-4.48s-3.6,-1.67 -4.48,-3.2c-0.88,-1.51 -0.08,-3.76 -0.54,-5.48c-0.45,-1.67 -2.27,-3.21 -2.27,-5.02s1.82,-3.35 2.27,-5.02c0.46,-1.72 -0.34,-3.97 0.54,-5.48c0.88,-1.53 3.23,-1.96 4.48,-3.2s1.67,-3.59 3.2,-4.48c1.51,-0.87 3.75,-0.08 5.48,-0.54c1.66,-0.44 3.21,-2.27 5.01,-2.27s3.36,1.83 5.02,2.27c1.73,0.46 3.97,-0.33 5.48,0.54c1.54,0.89 1.97,3.24 3.2,4.48s3.6,1.67 4.49,3.2c0.87,1.51 0.08,3.76 0.54,5.48c0.45,1.67 2.27,3.22 2.27,5.02z" data-name="Path 464" fill="none" id="Path_464" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              20% Gift Shop Discount**                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="35.18" height="48.876"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-162.516 -511.471)"><g data-name="Group 810" id="Group_810"><path d="m196.7,529.06c0,14.85 -16.59,30.29 -16.59,30.29s-16.59,-17.86 -16.59,-30.29a16.59,16.59 0 0 1 33.18,0z" data-name="Path 704" fill="none" id="Path_704" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle cx="10.6" cy="10.6" data-name="Ellipse 66" fill="#73a1aa" id="Ellipse_66" r="10.6" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(169.555 518.721)"></circle></g><g data-name="Group 811" id="Group_811"><path d="m176.64,525.09l0,8.61" data-name="Path 705" fill="none" id="Path_705" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 117" fill="none" id="Line_117" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(183.733 525.088)" y2="8.61"></line><line data-name="Line 118" fill="none" id="Line_118" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.639 529.393)" x1="7.09"></line></g></g></g></svg>                                              Hotel Rooms at J Resort***                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.346" height="32.872"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-579.899 -700.749)"><g data-name="Group 827" id="Group_827"><g data-name="Group 826" id="Group_826"><circle cx="14.47" cy="14.47" data-name="Ellipse 69" fill="#73a1aa" id="Ellipse_69" r="14.47" transform="translate(590.034 703.709)"></circle><g data-name="Group 825" id="Group_825"><line data-name="Line 131" fill="none" id="Line_131" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.44 713.116)" x2="10.14" y1="10.14"></line><circle cx="1.9" cy="1.9" data-name="Ellipse 70" fill="none" id="Ellipse_70" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(598.807 712.482)"></circle><circle cx="1.9" cy="1.9" data-name="Ellipse 71" fill="none" id="Ellipse_71" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(606.41 720.086)"></circle></g></g></g><g data-name="Group 828" id="Group_828"><path d="m624.5,720.54l4.75,0c0,-12.67 -2.22,-18.37 -4.4,-18.37l-0.35,0l0,30.45" data-name="Path 720" fill="none" id="Path_720" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m580.9,701.75l0,4.94a3.67,3.67 0 1 0 7.34,0l0,-4.94" data-name="Path 721" fill="none" id="Path_721" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 132" fill="none" id="Line_132" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(584.581 701.749)" y2="30.87"></line></g></g></g></svg>                                              The Buffet Discount***                                                                                    </div>
+                                                                            </div>
+                                    <div class="block-benefits-cta"><a href="https://www.jresortreno.com/casino/j-rewards/" class="text-decoration-none" target="_blank">View all White Gold benefits</a></div>
+                                </div>
+                                                            <div class="block-benefits-item">
+                                    <div class="block-benefits-title d-flex flex-column flex-sm-row align-items-start align-items-sm-end gap-4">
+                                        <div><img src="https://playerportal.jresortreno.com/wp-content/uploads/2024/07/JRESORT-092225-rewards-cards5-3.png" alt="JRESORT-092225-rewards-cards5-3" class="img-fluid" /></div>                                        <div class="rankname">Black Gold</div>
+                                                                            </div>
+                                    <div class="block-benefits-list">
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="42.083" height="47.083"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-159.064 -693.281)"><rect data-name="Rectangle 236" fill="none" height="6.66" id="Rectangle_236" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(161.894 732.704)" width="5.49"></rect><rect data-name="Rectangle 237" fill="none" height="6.66" id="Rectangle_237" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(185.51 732.704)" width="5.49"></rect><path d="m192.83,732.7l0,-7.32l-3.66,-3.66l-25.45,0l-3.66,3.66l0,7.32l32.77,0z" data-name="Path 698" fill="none" id="Path_698" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m173.53,712.58l-6.15,0l-3.66,9.15l25.45,0" data-name="Path 699" fill="none" id="Path_699" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 112" fill="none" id="Line_112" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(160.064 727.045)" x2="8.23"></line><line data-name="Line 113" fill="none" id="Line_113" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(184.595 727.045)" x2="8.23"></line><circle cx="11.89" cy="11.89" data-name="Ellipse 61" fill="#73a1aa" id="Ellipse_61" r="11.89" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.361 694.281)"></circle><path d="m185.51,712.58l0,-12.81l3.66,0a3.66,3.66 0 1 1 0,7.32l-3.66,0" data-name="Path 700" fill="none" id="Path_700" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              VIP Parking                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="47.385" height="33.846"><g class="layer"><title>Layer 1</title><g id="svg_1"><path d="m5.71,8.56a1.69,1.69 0 0 0 -1.54,2.36l5.6,13.52a1.69,1.69 0 0 0 3.13,0l5.61,-13.52a1.69,1.69 0 0 0 -3.13,-1.3l-4.04,9.75l-4.05,-9.74a1.69,1.69 0 0 0 -1.58,-1.07zm25.4,0a1.69,1.69 0 0 0 -1.69,1.69c0,4.52 0.01,9 0.01,13.52a1.69,1.69 0 1 0 3.38,0l0,-5.06l5.07,0a5.08,5.08 0 0 0 0,-10.15l-6.77,0zm1.7,3.38l5.07,0a1.69,1.69 0 0 1 0,3.39l-5.07,0l0,-3.39zm-7.62,11.83l0,-13.49a1.69,1.69 0 1 0 -3.39,0l0,13.49a1.69,1.69 0 1 0 3.38,0l0.01,0z" fill="#262e42" id="svg_2"></path><path d="m1.62,3.48l43.95,0a1.69,1.69 0 1 0 0,-3.38l-43.95,0a1.69,1.69 0 1 0 0,3.38zm0,30.47l43.95,0a1.69,1.69 0 1 0 0,-3.39l-43.95,0a1.69,1.69 0 1 0 0,3.39z" fill="#73a1aa" id="svg_3"></path></g></g></svg>                                              VIP Line in Dining and Guest Services                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="35.18" height="48.876"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-162.516 -511.471)"><g data-name="Group 810" id="Group_810"><path d="m196.7,529.06c0,14.85 -16.59,30.29 -16.59,30.29s-16.59,-17.86 -16.59,-30.29a16.59,16.59 0 0 1 33.18,0z" data-name="Path 704" fill="none" id="Path_704" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle cx="10.6" cy="10.6" data-name="Ellipse 66" fill="#73a1aa" id="Ellipse_66" r="10.6" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(169.555 518.721)"></circle></g><g data-name="Group 811" id="Group_811"><path d="m176.64,525.09l0,8.61" data-name="Path 705" fill="none" id="Path_705" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 117" fill="none" id="Line_117" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(183.733 525.088)" y2="8.61"></line><line data-name="Line 118" fill="none" id="Line_118" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.639 529.393)" x1="7.09"></line></g></g></g></svg>                                              J Resort Hotel VIP Check-In                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="43.992" height="43.982"><g class="layer"><title>Layer 1</title><g id="icon"><g data-name="Group 808" id="Group_808"><circle cx="-569.04" cy="-225.34" data-name="Ellipse 63" fill="#73a1aa" id="Ellipse_63" r="14.48" transform="translate(591.034 247.327)"></circle><g data-name="Group 807" id="Group_807"><line data-name="Line 116" fill="none" id="Line_116" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(600.44 256.734)" x1="-583.51" x2="-573.38" y1="-229.67" y2="-239.81"></line><circle cx="-581.61" cy="-237.91" data-name="Ellipse 64" fill="none" id="Ellipse_64" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.807 256.1)"></circle><circle cx="-581.61" cy="-237.91" data-name="Ellipse 65" fill="none" id="Ellipse_65" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(607.41 263.704)"></circle></g></g><path d="m42.89,21.99c0,1.81 -1.82,3.35 -2.27,5.02c-0.46,1.72 0.34,3.97 -0.54,5.48c-0.88,1.53 -3.24,1.96 -4.48,3.2s-1.67,3.6 -3.21,4.48c-1.5,0.87 -3.75,0.08 -5.48,0.54c-1.66,0.44 -3.21,2.27 -5.01,2.27s-3.35,-1.83 -5.02,-2.27c-1.73,-0.46 -3.97,0.33 -5.48,-0.54c-1.53,-0.89 -1.96,-3.24 -3.2,-4.48s-3.6,-1.67 -4.48,-3.2c-0.88,-1.51 -0.08,-3.76 -0.54,-5.48c-0.45,-1.67 -2.27,-3.21 -2.27,-5.02s1.82,-3.35 2.27,-5.02c0.46,-1.72 -0.34,-3.97 0.54,-5.48c0.88,-1.53 3.23,-1.96 4.48,-3.2s1.67,-3.59 3.2,-4.48c1.51,-0.87 3.75,-0.08 5.48,-0.54c1.66,-0.44 3.21,-2.27 5.01,-2.27s3.36,1.83 5.02,2.27c1.73,0.46 3.97,-0.33 5.48,0.54c1.54,0.89 1.97,3.24 3.2,4.48s3.6,1.67 4.49,3.2c0.87,1.51 0.08,3.76 0.54,5.48c0.45,1.67 2.27,3.22 2.27,5.02z" data-name="Path 464" fill="none" id="Path_464" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              20% Gift Shop Discount**                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="35.18" height="48.876"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-162.516 -511.471)"><g data-name="Group 810" id="Group_810"><path d="m196.7,529.06c0,14.85 -16.59,30.29 -16.59,30.29s-16.59,-17.86 -16.59,-30.29a16.59,16.59 0 0 1 33.18,0z" data-name="Path 704" fill="none" id="Path_704" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle cx="10.6" cy="10.6" data-name="Ellipse 66" fill="#73a1aa" id="Ellipse_66" r="10.6" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(169.555 518.721)"></circle></g><g data-name="Group 811" id="Group_811"><path d="m176.64,525.09l0,8.61" data-name="Path 705" fill="none" id="Path_705" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 117" fill="none" id="Line_117" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(183.733 525.088)" y2="8.61"></line><line data-name="Line 118" fill="none" id="Line_118" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.639 529.393)" x1="7.09"></line></g></g></g></svg>                                              Hotel Rooms at J Resort***                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.294" height="36.855"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-581.454 -882.146)"><circle cx="17.43" cy="17.43" data-name="Ellipse 73" fill="#73a1aa" id="Ellipse_73" r="17.43" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(582.454 883.146)"></circle><path d="m599.88,893.75l2.22,4.5l4.96,0.72l-3.59,3.5l0.85,4.94l-4.44,-2.33l-4.44,2.33l0.85,-4.94l-3.59,-3.5l4.96,-0.72l2.22,-4.5z" data-name="Path 723" fill="#fff" id="Path_723"></path><circle cx="10.82" cy="10.82" data-name="Ellipse 74" fill="#fff" id="Ellipse_74" r="10.82" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(609.114 889.757)"></circle><g data-name="Group 834" id="Group_834"><path d="m614.85,898.68s0.34,-1.46 1.68,-1.46c1.53,0 2.03,0.86 2.03,1.87c0,1.87 -3.71,2.89 -3.71,4.83l3.71,0" data-name="Path 725" fill="#fff" id="Path_725" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><g data-name="Group 833" id="Group_833"><line data-name="Line 135" fill="#fff" id="Line_135" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(621.497 898.976)" x2="3.52" y2="4.95"></line><line data-name="Line 136" fill="#fff" id="Line_136" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(621.497 898.976)" x1="3.52" y2="4.95"></line></g></g></g></g></svg>                                              2X Comp All Day                                                                                    </div>
+                                                                            </div>
+                                    <div class="block-benefits-cta"><a href="https://www.jresortreno.com/casino/j-rewards/" class="text-decoration-none" target="_blank">View all Black Gold benefits</a></div>
+                                </div>
+                                                            <div class="block-benefits-item">
+                                    <div class="block-benefits-title d-flex flex-column flex-sm-row align-items-start align-items-sm-end gap-4">
+                                        <div><img src="https://playerportal.jresortreno.com/wp-content/uploads/2024/07/JRESORT-092225-rewards-cards5-4-1.png" alt="JRESORT-092225-rewards-cards5-4" class="img-fluid" /></div>                                        <div class="rankname">Ultimate </div>
+                                                                            </div>
+                                    <div class="block-benefits-list">
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="42.083" height="47.083"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-159.064 -693.281)"><rect data-name="Rectangle 236" fill="none" height="6.66" id="Rectangle_236" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(161.894 732.704)" width="5.49"></rect><rect data-name="Rectangle 237" fill="none" height="6.66" id="Rectangle_237" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(185.51 732.704)" width="5.49"></rect><path d="m192.83,732.7l0,-7.32l-3.66,-3.66l-25.45,0l-3.66,3.66l0,7.32l32.77,0z" data-name="Path 698" fill="none" id="Path_698" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m173.53,712.58l-6.15,0l-3.66,9.15l25.45,0" data-name="Path 699" fill="none" id="Path_699" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 112" fill="none" id="Line_112" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(160.064 727.045)" x2="8.23"></line><line data-name="Line 113" fill="none" id="Line_113" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(184.595 727.045)" x2="8.23"></line><circle cx="11.89" cy="11.89" data-name="Ellipse 61" fill="#73a1aa" id="Ellipse_61" r="11.89" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.361 694.281)"></circle><path d="m185.51,712.58l0,-12.81l3.66,0a3.66,3.66 0 1 1 0,7.32l-3.66,0" data-name="Path 700" fill="none" id="Path_700" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              VIP Parking                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="35.18" height="48.876"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-162.516 -511.471)"><g data-name="Group 810" id="Group_810"><path d="m196.7,529.06c0,14.85 -16.59,30.29 -16.59,30.29s-16.59,-17.86 -16.59,-30.29a16.59,16.59 0 0 1 33.18,0z" data-name="Path 704" fill="none" id="Path_704" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle cx="10.6" cy="10.6" data-name="Ellipse 66" fill="#73a1aa" id="Ellipse_66" r="10.6" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(169.555 518.721)"></circle></g><g data-name="Group 811" id="Group_811"><path d="m176.64,525.09l0,8.61" data-name="Path 705" fill="none" id="Path_705" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 117" fill="none" id="Line_117" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(183.733 525.088)" y2="8.61"></line><line data-name="Line 118" fill="none" id="Line_118" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.639 529.393)" x1="7.09"></line></g></g></g></svg>                                              J Resort Hotel VIP Check-In                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="43.992" height="43.982"><g class="layer"><title>Layer 1</title><g id="icon"><g data-name="Group 808" id="Group_808"><circle cx="-569.04" cy="-225.34" data-name="Ellipse 63" fill="#73a1aa" id="Ellipse_63" r="14.48" transform="translate(591.034 247.327)"></circle><g data-name="Group 807" id="Group_807"><line data-name="Line 116" fill="none" id="Line_116" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(600.44 256.734)" x1="-583.51" x2="-573.38" y1="-229.67" y2="-239.81"></line><circle cx="-581.61" cy="-237.91" data-name="Ellipse 64" fill="none" id="Ellipse_64" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.807 256.1)"></circle><circle cx="-581.61" cy="-237.91" data-name="Ellipse 65" fill="none" id="Ellipse_65" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(607.41 263.704)"></circle></g></g><path d="m42.89,21.99c0,1.81 -1.82,3.35 -2.27,5.02c-0.46,1.72 0.34,3.97 -0.54,5.48c-0.88,1.53 -3.24,1.96 -4.48,3.2s-1.67,3.6 -3.21,4.48c-1.5,0.87 -3.75,0.08 -5.48,0.54c-1.66,0.44 -3.21,2.27 -5.01,2.27s-3.35,-1.83 -5.02,-2.27c-1.73,-0.46 -3.97,0.33 -5.48,-0.54c-1.53,-0.89 -1.96,-3.24 -3.2,-4.48s-3.6,-1.67 -4.48,-3.2c-0.88,-1.51 -0.08,-3.76 -0.54,-5.48c-0.45,-1.67 -2.27,-3.21 -2.27,-5.02s1.82,-3.35 2.27,-5.02c0.46,-1.72 -0.34,-3.97 0.54,-5.48c0.88,-1.53 3.23,-1.96 4.48,-3.2s1.67,-3.59 3.2,-4.48c1.51,-0.87 3.75,-0.08 5.48,-0.54c1.66,-0.44 3.21,-2.27 5.01,-2.27s3.36,1.83 5.02,2.27c1.73,0.46 3.97,-0.33 5.48,0.54c1.54,0.89 1.97,3.24 3.2,4.48s3.6,1.67 4.49,3.2c0.87,1.51 0.08,3.76 0.54,5.48c0.45,1.67 2.27,3.22 2.27,5.02z" data-name="Path 464" fill="none" id="Path_464" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></g></svg>                                              20% Gift Shop Discount**                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="35.18" height="48.876"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-162.516 -511.471)"><g data-name="Group 810" id="Group_810"><path d="m196.7,529.06c0,14.85 -16.59,30.29 -16.59,30.29s-16.59,-17.86 -16.59,-30.29a16.59,16.59 0 0 1 33.18,0z" data-name="Path 704" fill="none" id="Path_704" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><circle cx="10.6" cy="10.6" data-name="Ellipse 66" fill="#73a1aa" id="Ellipse_66" r="10.6" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(169.555 518.721)"></circle></g><g data-name="Group 811" id="Group_811"><path d="m176.64,525.09l0,8.61" data-name="Path 705" fill="none" id="Path_705" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 117" fill="none" id="Line_117" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(183.733 525.088)" y2="8.61"></line><line data-name="Line 118" fill="none" id="Line_118" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(176.639 529.393)" x1="7.09"></line></g></g></g></svg>                                              Hotel Rooms at J Resort***                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.294" height="36.855"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-581.454 -882.146)"><circle cx="17.43" cy="17.43" data-name="Ellipse 73" fill="#73a1aa" id="Ellipse_73" r="17.43" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(582.454 883.146)"></circle><path d="m599.88,893.75l2.22,4.5l4.96,0.72l-3.59,3.5l0.85,4.94l-4.44,-2.33l-4.44,2.33l0.85,-4.94l-3.59,-3.5l4.96,-0.72l2.22,-4.5z" data-name="Path 723" fill="#fff" id="Path_723"></path><circle cx="10.82" cy="10.82" data-name="Ellipse 74" fill="#fff" id="Ellipse_74" r="10.82" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(609.114 889.757)"></circle><g data-name="Group 834" id="Group_834"><path d="m614.85,898.68s0.34,-1.46 1.68,-1.46c1.53,0 2.03,0.86 2.03,1.87c0,1.87 -3.71,2.89 -3.71,4.83l3.71,0" data-name="Path 725" fill="#fff" id="Path_725" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><g data-name="Group 833" id="Group_833"><line data-name="Line 135" fill="#fff" id="Line_135" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(621.497 898.976)" x2="3.52" y2="4.95"></line><line data-name="Line 136" fill="#fff" id="Line_136" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(621.497 898.976)" x1="3.52" y2="4.95"></line></g></g></g></g></svg>                                              2X Comp All Day                                                                                    </div>
+                                                                                <div class="block-welcome-benefit-item">
+                                            <?xml version="1.0" encoding="UTF-8"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="50.346" height="32.872"><g class="layer"><title>Layer 1</title><g id="icon" transform="translate(-579.899 -700.749)"><g data-name="Group 827" id="Group_827"><g data-name="Group 826" id="Group_826"><circle cx="14.47" cy="14.47" data-name="Ellipse 69" fill="#73a1aa" id="Ellipse_69" r="14.47" transform="translate(590.034 703.709)"></circle><g data-name="Group 825" id="Group_825"><line data-name="Line 131" fill="none" id="Line_131" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(599.44 713.116)" x2="10.14" y1="10.14"></line><circle cx="1.9" cy="1.9" data-name="Ellipse 70" fill="none" id="Ellipse_70" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(598.807 712.482)"></circle><circle cx="1.9" cy="1.9" data-name="Ellipse 71" fill="none" id="Ellipse_71" r="1.9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(606.41 720.086)"></circle></g></g></g><g data-name="Group 828" id="Group_828"><path d="m624.5,720.54l4.75,0c0,-12.67 -2.22,-18.37 -4.4,-18.37l-0.35,0l0,30.45" data-name="Path 720" fill="none" id="Path_720" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="m580.9,701.75l0,4.94a3.67,3.67 0 1 0 7.34,0l0,-4.94" data-name="Path 721" fill="none" id="Path_721" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line data-name="Line 132" fill="none" id="Line_132" stroke="#262e42" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(584.581 701.749)" y2="30.87"></line></g></g></g></svg>                                              The Buffet Discount***                                                                                    </div>
+                                                                            </div>
+                                    <div class="block-benefits-cta"><a href="https://www.jresortreno.com/casino/j-rewards/" class="text-decoration-none" target="_blank">View all Ultimate  benefits</a></div>
+                                </div>
+                                                    </div>
+                                    </div>
+      
+<script type="text/javascript">
+    function popupPrint() {
+        document.body.classList.add('modal-print');
+        window.print();
+    }
+
+    jQuery(document).ready(function($){
+        $('.modal').appendTo('body');
+    });
+</script>									</div>
+								 
+                            
+                                                        </div>
+                        </div>
+                                                    <div class="col-xxl-7 d-flex">
+                                <div class="block-profile d-flex">
+                                    <div class="row">
+                                        <div class="block-profile-id col-lg-3">
+                                            <strong>Player ID:</strong> 12808399<br>
+                                                                                        <a href="/my-profile/">My Profile</a><br/>
+                                                                                        <a href="/member-login/?logout=true">Logout</a>
+                                        </div>
+                                        <div class="block-profile-dates col-lg-9">
+                                            <strong>You earn in 6 month qualifying periods:</strong> 
+                                                                                            Jan - Jun                                                 |                                                                                             Jul - Dec                                                                                            <br>
+                                            <strong>Membership dates:</strong> 
+                                                                                            Feb - Jul                                                 |                                                                                             Aug - Jan                                                                                                                                    </div>
+                                        <div class="block-profile-graph mx-auto me-xxl-0" data-percent="0">
+                                            <div class="block-profile-image">
+                                                <div class="block-profile-image-line"></div>
+                                                <div class="block-profile-image-stats">
+                                                    <div class="block-profile-image-stats-date">June 9, 2025</div>
+                                                    <div class="block-profile-image-stats-credits">
+                                                        1 VIP Credits<br>
+                                                        3,999 VIP Credits to reach <span>White Gold</span>                                                    </div>
+                                                </div>
+                                                <div class="block-profile-image-full">
+                                                    <img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/frontimage3.svg" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="block-profile-image-empty">
+                                                    <img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/backimage3.svg" alt="" class="img-fluid">
+                                                </div>
+                                            </div>
+                                            <div class="block-profile-tiers">
+                                                <div class="block-profile-tiers-title">Reward Tiers:</div>
+                                                <div class="block-profile-tiers-levels">
+                                                    <div class="block-profile-tiers-levels-item active">Gold</div><div class="block-profile-tiers-levels-item ">White Gold</div><div class="block-profile-tiers-levels-item ">Black Gold</div><div class="block-profile-tiers-levels-item ">Ultimate </div>                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+                <div class="block-cards">
+                    <div class="row" style="--bs-gutter-y: 30px;">
+                                                                                                                <div class="col-sm-6 col-xl-4 d-flex flex-column">
+                                    <div class="block-cards-item flex-grow-1 d-flex flex-column">
+                                        <div class="block-cards-title">$2.45</div>
+                                        <div class="block-cards-subtitle">Comp Balance</div>
+                                        <div class="block-cards-text">Every time you play with your Player's Card, you'll earn food or hotel comps. Just present your card at any of our dining establishments to use "Swipe and Dine" and receive discounted or free meals.</div>
+                                    </div>
+                                </div>
+                                                        <div class="col-sm-6 col-xl-4 d-flex flex-column">
+                                <div class="block-cards-item flex-grow-1 d-flex flex-column">
+                                    <div class="block-cards-title">$0.00</div>
+                                    <div class="block-cards-subtitle">E-Cash balance</div>
+                                    <div class="block-cards-text">e-Cash allows you to play slots for free!  Activate your e-Cash by inserting your card at your favorite game, entering your PIN, and selecting e-Cash on the screen. Your bets will be reimbursed each spin as long as you have e-Cash remaining.</div>
+                                </div>
+                            </div>
+                                                                                                        <div class="col-sm-6 col-xl-6 d-flex flex-column">
+                                <div class="block-cards-item flex-grow-1 d-flex flex-column">
+                                    <div class="block-cards-title d-flex justify-content-between align-items-center">My Offers <svg xmlns="http://www.w3.org/2000/svg" width="34.69" height="36" viewBox="0 0 34.69 36"><g id="Group_501" data-name="Group 501" transform="translate(0 -0.008)"><circle id="Ellipse_15" data-name="Ellipse 15" cx="6" cy="6" r="6" transform="translate(8.69 24.008)" fill="#e89f1b"/><path id="Path_428" data-name="Path 428" d="M25.475,16.86A10.46,10.46,0,0,1,17.364,2.285a10.448,10.448,0,0,0-12.871,10.2V16.66A10.043,10.043,0,0,1,.917,24.349a2.621,2.621,0,0,0,1.7,4.612H27.335a2.621,2.621,0,0,0,1.69-4.625,10.028,10.028,0,0,1-3.55-7.476Z" transform="translate(0 1.03)" fill="#e89f1b"/><ellipse id="Ellipse_16" data-name="Ellipse 16" cx="8" cy="7.5" rx="8" ry="7.5" transform="translate(18.69 0.008)" fill="#ed102e"/></g></svg></div>
+                                    <div class="block-cards-text">Receive monthly offers in the mail based on your recent play.</div>
+                                    <div class="block-cards-cta">
+										<a href="#" class="chaos-modal-link btn element primary default" data-chaos-modal-box-id="modal-content-mailer">View mailers</a>
+											<div id="modal-content-mailer" style="display: none;" class="modalmain">
+            									
+    
+                <div class="modal-body">
+                    <div class="block-title">
+                        <h2 class="">My Offers</h2>
+                    </div>
+                    <div class="block-print"><a class="modal-print text-decoration-none" href="javascript:void(0)" onclick="popupPrint();">Print <svg xmlns="http://www.w3.org/2000/svg" width="21.747" height="20.393" viewBox="0 0 21.747 20.393"><path id="Path_430" data-name="Path 430" d="M5.437,1.008V9.147h-3.4A2.05,2.05,0,0,0,0,11.186v7.486H5.455V21.4H16.321V18.672h5.426V11.186a2.05,2.05,0,0,0-2.039-2.039h-3.4V1.008ZM6.8,2.367h8.155v6.78H6.8ZM8.155,3.726V5.085h5.437V3.726Zm0,2.718V7.8h5.437V6.445ZM2.039,10.506h3.4v.016H16.31v-.016h3.4a.664.664,0,0,1,.68.68v6.127H16.321V14.605H5.455v2.708h-4.1V11.186A.664.664,0,0,1,2.039,10.506Zm4.776,5.458h8.147v4.078H6.815Z" transform="translate(0 -1.008)" fill="#007fff"/></svg></a></div>
+          
+                                                                <div class="block-offers">There are no available offers.</div>
+                                                        </div>
+  
+    <script type="text/javascript">
+        const myOffersModalEl = document.getElementById('myOffers')
+        myOffersModalEl.addEventListener('hidden.bs.modal', event => {
+            document.body.classList.remove('modal-print');
+        });
+    </script>
+
+											</div> 
+																			</div>
+                                </div>
+                            </div>
+                                                                                    <div class="col-sm-6 col-xl-6 d-flex flex-column">
+                                <div class="block-cards-item flex-grow-1 d-flex flex-column">
+                                    <div class="block-cards-title">Hotel Offers</div>
+                                    <div class="block-cards-text">Receive hotel stays based on your recent play.</div>
+                                    <div class="block-cards-cta">
+										<a href="#" class="chaos-modal-link btn element primary default" data-chaos-modal-box-id="modal-content-hotel">View offers</a>			
+										<div id="modal-content-hotel" style="display: none;" class="modalmain">
+											    
+                <div class="modal-body">
+                    <div class="block-title">
+                        <h2 class="mb-0">Hotel Offers</h2>
+                        <svg id="_x31_0-Hotel_sign" xmlns="http://www.w3.org/2000/svg" width="64" height="63.976" viewBox="0 0 64 63.976"><g id="Group_593" data-name="Group 593"><path id="Path_493" data-name="Path 493" d="M62,9.838a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2H2A2,2,0,0,0,0,2V7.838a2,2,0,0,0,2,2H8.5v4.024H2a2,2,0,0,0-2,2V55.29a2,2,0,0,0,2,2H13.792C17.505,61.436,24.36,63.976,32,63.976s14.495-2.54,18.208-6.686H62a2,2,0,0,0,2-2V15.862a2,2,0,0,0-2-2H55.5V9.838ZM4,4H60V5.838H4ZM60,17.862V53.29H49.27a2,2,0,0,0-1.589.786c-2.739,3.584-8.895,5.9-15.682,5.9s-12.942-2.315-15.682-5.9a2,2,0,0,0-1.589-.786H4V17.862H8.5v5.224a2,2,0,1,0,4,0V17.862h39v5.224a2,2,0,0,0,4,0V17.862Zm-8.5-4h-39V9.838h39Z" fill="#e89f1b"/><path id="Path_494" data-name="Path 494" d="M261.1,266.8a2,2,0,0,0-2,2v7.666H244.767V268.8a2,2,0,1,0-4,0v20.833a2,2,0,1,0,4,0v-9.167H259.1v9.167a2,2,0,1,0,4,0V268.8A2,2,0,0,0,261.1,266.8Z" transform="translate(-219.934 -243.713)" fill="#e89f1b"/></g></svg>                    </div>
+                    <div class="block-print"><a class="modal-print text-decoration-none" href="javascript:void(0)" onclick="popupPrint();">Print <svg xmlns="http://www.w3.org/2000/svg" width="21.747" height="20.393" viewBox="0 0 21.747 20.393"><path id="Path_430" data-name="Path 430" d="M5.437,1.008V9.147h-3.4A2.05,2.05,0,0,0,0,11.186v7.486H5.455V21.4H16.321V18.672h5.426V11.186a2.05,2.05,0,0,0-2.039-2.039h-3.4V1.008ZM6.8,2.367h8.155v6.78H6.8ZM8.155,3.726V5.085h5.437V3.726Zm0,2.718V7.8h5.437V6.445ZM2.039,10.506h3.4v.016H16.31v-.016h3.4a.664.664,0,0,1,.68.68v6.127H16.321V14.605H5.455v2.708h-4.1V11.186A.664.664,0,0,1,2.039,10.506Zm4.776,5.458h8.147v4.078H6.815Z" transform="translate(0 -1.008)" fill="#007fff"/></svg></a></div>
+                                                                <div class="block-offers">There are no available hotel offers.</div>
+                                                            <div class="block-footer">
+                                                    <p>Don’t see any Coupons here? <a href="https://jresortreno.book.pegsbe.com/?propertyCode=2108
+								&token=ZGVmNTAyMDBlMDgwZTBmM2RhYjAwZTA4YTVhNzMzOWJkMDJlZjYwZDdjMmE2ZWIxN2ZjODBiNGU2NjZjZjA2NGVjYWMwMmUwYTYxYzFiNTc4NThhZDc5YzhhOTY5NDY4MjRlNzVkNjI3NDBkYjVhNjUyY2ZjMDM0Yjg2ODI0YjViOWU2NDY0YmY4N2QxZDMxYTg2NjZkOWRjODUyODU3OGQzM2EwNTU4OTM0ZjA2NjcxNGZmMmRlODQ5NDVhNTUzYTgxNDE4YTU1ZmQ1MTgwNjBmYjczMzkwZjhjNmZkZDM3NGUxM2RiYWJlNTk2YTNiODk2YTIw" target="_blank">Click this link to view your player specific rate.</a></p>
+                                            </div>
+                                    </div>
+
+    <script type="text/javascript">
+        const hotelOffersModalEl = document.getElementById('hotelOffers')
+        hotelOffersModalEl.addEventListener('hidden.bs.modal', event => {
+            document.body.classList.remove('modal-print');
+        });
+    </script>
+										</div> 
+																			</div>
+                                </div>
+                            </div>
+                                                                        </div>
+                </div>
+                
+            </div>
+			 			
+			
+			
+        </section>
+    </article><!-- #post -->
+
+
+</div><!--#wrapper-->
+<div class="footer-tare"> </div>
+<footer>
+	<div class="fwrap">
+		<div class="foot-top">
+			
+			<div class="ftop1">
+				<a class="gdw" href="https://www.gdwcasino.com/" target="_blank">
+					<div class="logo-cont">
+						<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/logo-gold-dust-west.svg"/>
+					</div>
+				</a>
+				<a class="rnl" href="https://renosneonlinedistrict.org/" target="_blank">
+					<div class="logo-cont">
+						<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/rnl-logo.svg"/>
+					</div>
+				</a>
+				<a class="jei" href="https://jacobsentertainmentinc.com/" target="_blank">
+					<div class="logo-cont">
+						<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/logo-jacobs.svg"/>
+					</div>
+				</a>
+				<a class="tlc" href="https://thelodgecasino.com/" target="_blank">
+					<div class="logo-cont">
+						<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/logo-lodge-casino.svg"/>
+					</div>
+				</a>
+				<a class="tgp" href="https://thegilpincasino.com/" target="_blank">
+					<div class="logo-cont">
+						<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/logo-gilpin.svg"/>
+					</div>
+				</a>	
+			</div>
+			<div class="ftop2">
+				<nav id="foot-nav" class="fnav">
+					<div id="menu" class="ddsmoothmenu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first menu-item-18"><a href="https://secure4.saashr.com/ta/6161986.careers?CareersSearch">Careers</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://www.jresortreno.com/privacy-policy/">Privacy</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="https://www.jresortreno.com/terms-of-use/">Terms</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://www.jresortreno.com/responsible-gaming/">Responsible Gaming</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://www.jresortreno.com/contact/">Contact</a></li>
+<li id="menu-item-6061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-last menu-item-6061"><a target="_blank" rel="noopener" href="https://app.reunitus.com/lf-pax/jacobs/landing?loc=JRR">Lost &#038; Found</a></li>
+</ul></div>				</nav>
+			</div>	
+		</div>
+		<div class="foot-bottom clearfix">
+						<div class="foot-social pbl ptl">
+								<div class="left-foot-social">
+											<a class="fb" target="_blank" href="https://www.facebook.com/jresortreno/" title="Connect with us on Facebook" rel="nofollow">
+														<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/icon-facebook.svg"/>
+						</a>
+										   
+						<a class="ig" target="_blank" href="https://www.instagram.com/jresortreno/" title="Connect with us on Instagram" rel="nofollow">
+														<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/icon-instagram.svg"/>
+						</a>
+										 
+						<a class="tk" target="_blank" href="https://www.tiktok.com/@jresortreno" title="Connect with us on Tiktok" rel="nofollow">
+														<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/icon-tiktok.svg"/>
+						</a>
+										 
+						<a class="tw" target="_blank" href="https://www.linkedin.com/company/jresortreno" title="Connect with us on LinkedIn" rel="nofollow">
+														<img src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/images/icon-linkedIn.svg"/>
+						</a>
+														</div>
+			</div>
+			
+							
+		</div>
+	</div>	
+	<div id="footer-newsletter">
+      <div id="footer-newsletter-wrapper" class="">
+        <p>Sign Up For Our E-Newsletter</p>
+        <div class='_form_52'></div><script type='text/javascript' src='https://jeinevada.activehosted.com/f/embed.php?static=0&id=52&684715AF952BB&nostyles=1&preview=0'></script>      </div>
+    </div>
+</footer>
+<script type="text/javascript" id="site_tracking-js-extra">
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":609991186,"site_tracking_default":1},"user_email":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=6.5" id="site_tracking-js"></script>
+<script type="text/javascript" id="functions-js-extra">
+/* <![CDATA[ */
+var ajax_obj = {"ajax_url":"https:\/\/playerportal.jresortreno.com\/wp-admin\/admin-ajax.php","nonce":"f08fb50ab3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://playerportal.jresortreno.com/wp-content/themes/MCM%20Framework/js/functions.js?ver=2506091002" id="functions-js"></script>
+</body>
+</html>
+		
